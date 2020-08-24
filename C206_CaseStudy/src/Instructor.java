@@ -1,6 +1,5 @@
 
 public class Instructor {
-public class Instructor {
 	private String password;
 	private String name;
 	private String email;	
@@ -42,9 +41,5 @@ public class Instructor {
 		return output;
 		
 	}
-
-
-
-
 
 }
