@@ -15,9 +15,9 @@ public class C206_CaseStudyTest {
 	}
 
 	@Test
-	public void c206_test() {
-		//fail("Not yet implemented"); 
-		assertTrue("C206_CaseStudy_SampleTest ",true);
-	}
+	 public void c206_test() {
+	    //fail("Not yet implemented"); 
+	    assertTrue("C206_CaseStudy_SampleTest ",true);
+	  }
 
 }
